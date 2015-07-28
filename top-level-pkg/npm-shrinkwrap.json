@@ -1,0 +1,11 @@
+{
+  "name": "shrinkwrap-bug",
+  "version": "1.0.0",
+  "dependencies": {
+    "server-pkg": {
+      "version": "1.0.0",
+      "from": "../server-pkg",
+      "resolved": "file:../server-pkg"
+    }
+  }
+}
